@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Aelyska</strong></h1>
 <h3 align="center" class="header">プロフィール コンテンツ</h3>
 
-<h1>Blame Android for translating this README to Japanese.</h1>
+<h2>Blame Android for translating this README to Japanese.</h2>
 <ol>I'm too lazy to fix this, lol</ol>
 
 <h4>自己紹介</h4>
